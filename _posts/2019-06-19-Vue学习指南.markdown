@@ -39,7 +39,7 @@ watch: {
 }
 {% endhighlight %}
 
-{% highlight css %}
+{% highlight scss %}
 	
 	.tags-view-wrapper {
       .tags-view-item {
