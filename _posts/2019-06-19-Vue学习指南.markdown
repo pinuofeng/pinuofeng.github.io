@@ -1,18 +1,28 @@
 ---
 layout: post
-title: "Vue学习指南"
+title: "Markdown学习指南"
 date: 2019-06-19 15:20:21 +0800
 tags: JS Vue.js
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: '新手必备的Vue.js学习教程'
+subtitle: '新手必备的Markdown学习教程'
 ---
-反引号: `反引号`  
-超链接变量：[我的github][我的github]  
-超链接地址：[我的github2](https://github.com/pinuofeng "我的github2")  
-图片：![图片alt](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")  
-本地图片：![图片alt]('../assets/test.png' "区块链")  
 
+反引号: `反引号`    
+超链接变量：[我的github][我的github]    
+超链接地址：[我的github2](https://github.com/pinuofeng "我的github2")    
+图片：![图片alt](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")      
+这是一个段落：   
+> Transform your plain text into static websites and blogs.  
+
+这是一级标题：  
+# Welcome  
+
+这是二级标题：  
+## Welcome  
+
+这是三级标题：  
+### Welcome   
 
 {% highlight html %}
 <!-- 这是一段HTML注释 -->
