@@ -13,12 +13,57 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight javascript %}
+
+//这是一段vue代码注释
+
+<ul v-show="visible" :style="{left:left+'px',top:top+'px'}" class="contextmenu">
+  <li @click="refreshSelectedTag(selectedTag)">Refresh</li>
+  <li v-if="!(selectedTag.meta&&selectedTag.meta.affix)" @click="closeSelectedTag(selectedTag)">Close</li>
+  <li @click="closeOthersTags">Close Others</li>
+  <li @click="closeAllTags(selectedTag)">Close All</li>
+</ul>
+
+watch: {
+    $route() {
+      this.addTags()
+      this.moveToCurrentTag()
+    },
+    visible(value) {
+      if (value) {
+        document.body.addEventListener('click', this.closeMenu)
+      } else {
+        document.body.removeEventListener('click', this.closeMenu)
+      }
+    }
+}
+{% endhighlight %}
+
+{% highlight css %}
+	
+	.tags-view-wrapper {
+      .tags-view-item {
+        .el-icon-close {
+          width: 16px;
+          height: 16px;
+          vertical-align: 2px;
+          border-radius: 50%;
+          text-align: center;
+          transition: all .3s cubic-bezier(.645, .045, .355, 1);
+          transform-origin: 100% 50%;
+          &:before {
+            transform: scale(.6);
+            display: inline-block;
+            vertical-align: -3px;
+          }
+          &:hover {
+            background-color: #b4bccc;
+            color: #fff;
+          }
+        }
+      }
+    }
+	
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
