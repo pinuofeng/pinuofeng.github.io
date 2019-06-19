@@ -8,8 +8,11 @@ cover: '../assets/test.png'
 subtitle: '新手必备的Vue.js学习教程'
 ---
 反引号: `反引号`  
-超链接：[我的github][我的github]
-超链接2：[我的github2][https://github.com/pinuofeng]
+超链接变量：[我的github][我的github]
+超链接地址：[我的github2](https://github.com/pinuofeng "我的github2")
+图片：![图片alt](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+本地图片：![图片alt](../assets/test.png "区块链")
+
 
 {% highlight html %}
 <!-- 这是一段HTML注释 -->
