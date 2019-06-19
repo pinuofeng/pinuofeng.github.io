@@ -13,7 +13,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight javascript %}
+{% highlight vue %}
 
 //这是一段vue代码注释
 
@@ -41,28 +41,28 @@ watch: {
 
 {% highlight scss %}
 	
-	.tags-view-wrapper {
-      .tags-view-item {
-        .el-icon-close {
-          width: 16px;
-          height: 16px;
-          vertical-align: 2px;
-          border-radius: 50%;
-          text-align: center;
-          transition: all .3s cubic-bezier(.645, .045, .355, 1);
-          transform-origin: 100% 50%;
-          &:before {
-            transform: scale(.6);
-            display: inline-block;
-            vertical-align: -3px;
-          }
-          &:hover {
-            background-color: #b4bccc;
-            color: #fff;
-          }
-        }
+.tags-view-wrapper {
+  .tags-view-item {
+    .el-icon-close {
+      width: 16px;
+      height: 16px;
+      vertical-align: 2px;
+      border-radius: 50%;
+      text-align: center;
+      transition: all .3s cubic-bezier(.645, .045, .355, 1);
+      transform-origin: 100% 50%;
+      &:before {
+        transform: scale(.6);
+        display: inline-block;
+        vertical-align: -3px;
+      }
+      &:hover {
+        background-color: #b4bccc;
+        color: #fff;
       }
     }
+  }
+}
 	
 {% endhighlight %}
 
