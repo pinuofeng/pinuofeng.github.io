@@ -13,16 +13,24 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight vue %}
-
-//这是一段vue代码注释
-
+{% highlight html %}
+<!-- 这是一段HTML注释 -->
 <ul v-show="visible" :style="{left:left+'px',top:top+'px'}" class="contextmenu">
   <li @click="refreshSelectedTag(selectedTag)">Refresh</li>
   <li v-if="!(selectedTag.meta&&selectedTag.meta.affix)" @click="closeSelectedTag(selectedTag)">Close</li>
   <li @click="closeOthersTags">Close Others</li>
   <li @click="closeAllTags(selectedTag)">Close All</li>
 </ul>
+
+{% endhighlight %}
+
+{% highlight javascript %}
+
+//javascript行注释
+
+/*
+ * 这是一段注释
+*/
 
 watch: {
     $route() {
