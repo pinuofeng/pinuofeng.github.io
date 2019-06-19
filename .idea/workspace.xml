@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="838fc411-504e-4704-8b8b-0cb7ea6e7dd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-19-Markdown学习指南.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-19-Markdown学习指南.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/test.png" beforeDir="false" />
-    </list>
+    <list default="true" id="838fc411-504e-4704-8b8b-0cb7ea6e7dd5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-19-Markdown学习指南.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -85,9 +82,9 @@
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="572" />
-    <option name="y" value="81" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="393" />
+    <option name="y" value="43" />
     <option name="width" value="1340" />
     <option name="height" value="956" />
   </component>
@@ -105,11 +102,6 @@
             <path>
               <item name="pinuofeng.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinuofeng.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinuofeng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinuofeng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560915728073</updated>
-      <workItem from="1560915729174" duration="14446000" />
+      <workItem from="1560915729174" duration="15917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14446000" />
+    <option name="totallyTimeSpent" value="15917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,7 +166,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="572" y="81" width="1340" height="956" extended-state="0" />
+    <frame x="393" y="43" width="1340" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -315,13 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/bak.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -335,6 +320,16 @@
             <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
