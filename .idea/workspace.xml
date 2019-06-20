@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-20-使用Github+Jekyll搭建个人网站.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="718">
-                <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <first_editor relative-caret-position="520">
+                <caret line="41" column="98" selection-start-line="41" selection-start-column="98" selection-end-line="41" selection-end-column="98" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,12 +159,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560915728073</updated>
       <workItem from="1560915729174" duration="16677000" />
-      <workItem from="1560993488212" duration="11952000" />
+      <workItem from="1560993488212" duration="12254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28629000" />
+    <option name="totallyTimeSpent" value="28931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,7 +179,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18924618" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18924618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -333,8 +333,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-20-使用Github+Jekyll搭建个人网站.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="718">
-            <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <first_editor relative-caret-position="520">
+            <caret line="41" column="98" selection-start-line="41" selection-start-column="98" selection-end-line="41" selection-end-column="98" />
           </first_editor>
           <second_editor />
         </state>
