@@ -4,7 +4,7 @@ title: '使用Github+Jekyll搭建个人网站'
 date: 2019-06-20 09:35:10 +0800
 tags: Github Jekyll
 color: rgb(255,210,32)
-cover: '../assets/cover_github.jpg'
+cover: '../assets/2019-06-20/cover_github.jpg'
 subtitle: '手把手教你搭建免费个人博客网站'
 ---
 
