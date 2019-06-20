@@ -1,11 +1,11 @@
 ---
 layout: post
-title: '使用Github+Jekyll搭建个人网站'
+title: 'Github & Jekyll'
 date: 2019-06-20 09:35:10 +0800
 tags: Github Jekyll
 color: rgb(255,210,32)
 cover: '../assets/2019-06-20/cover_github.jpg'
-subtitle: '手把手教你搭建免费个人博客网站'
+subtitle: '手把手教你搭建个人博客网站'
 ---
 
 ### 一、创建一个新仓库 
