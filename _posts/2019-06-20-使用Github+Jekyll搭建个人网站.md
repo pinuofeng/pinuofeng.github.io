@@ -3,7 +3,7 @@ layout: post
 title: '使用Github+Jekyll搭建个人网站'
 date: 2019-06-20 09:35:10 +0800
 tags: Github Jekyll
-color: rgb(255,90,90)
+color: rgb(255,210,32)
 cover: '../assets/markdown-2019-06-19.jpg'
 subtitle: '手把手教你搭建博客网站'
 ---
@@ -23,15 +23,16 @@ subtitle: '手把手教你搭建博客网站'
 
 ### 三、修改Jekyll模板，发布一篇博客
 此时你的项目结构应该类似于这个样子：     
+
 ![项目结构](/assets/2019-06-20/project_dir.png)      
 你下载的项目模板可能和我的有所差异，不过这并不影响什么。因为我们需要关注的只有其中几个文件：       
-1、_config.yml: 这是项目的配置文件，可以配置页面标题、nav导航、分页等等。如下图：      
+1、_config.yml: 这是项目的配置文件，可以配置页面标题、nav导航、分页等等。如下图：    
+  
 ![配置文件](/assets/2019-06-20/io_config.png)        
 
 2、_posts文件夹：这里是存放你所有文章的地方，这个文件夹里面的每一个文件都应该是一个markdown文件，而每一个文件
 就是你的一篇博文。    
-
-Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，可以生成静态html页面或pdf文件。
+>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，可以生成静态html页面或pdf文件。
 我们之后写博文就需要用到这个语言，不了解的童鞋可以戳这里了解一下[markdown语法](https://www.jianshu.com/p/f3147a804368)    
 
 
