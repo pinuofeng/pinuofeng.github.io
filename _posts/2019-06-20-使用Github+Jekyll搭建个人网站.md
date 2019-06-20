@@ -10,7 +10,6 @@ subtitle: '手把手教你搭建博客网站'
 
 ### 一、创建一个新仓库 
 进入Repositories -> New按钮 创建一个新仓库：     
-
 ![创建新仓库](/assets/2019-06-20/create_io.png)    
 图中红线部分为仓库名，“username”必须和你的Github登录名一样，并且后面必须是以“.github.io”结尾。如：我的
 登录名是 pinuofeng，所以我的仓库名应为：pinuofeng.github.io；点击下方Create repository按钮完成创建。    
