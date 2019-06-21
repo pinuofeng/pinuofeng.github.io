@@ -40,7 +40,7 @@ subtitle: '手把手教你搭建个人博客网站'
 
 ![项目结构](/assets/2019-06-20/page_config.png)      
 
->以上对文件的修改，得使用GitHub Desktop提交到github仓库后才生效，如果你提交后刷新页面并没有变化，那是浏览器缓存的原因，清理一下刷新页面就好了。     
+>以上对文件的修改，需要使用GitHub Desktop提交到github仓库后才生效，如果你提交后刷新页面并没有变化，那是浏览器缓存的原因，清理一下刷新页面就好了。     
 
 到这里就可以在_posts文件夹里创建markdown文件写文章了~  
 关于Markdown的语法学习，请戳[Markdown语法学习指南](https://pinuofeng.github.io/2019/06/20/Markdown.html)；    
